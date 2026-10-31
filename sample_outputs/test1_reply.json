@@ -1,0 +1,13 @@
+{
+  "input_file": "test1.txt",
+  "transcript": "My order still hasn't arrived. Can I cancel it? Order 10001234",
+  "reply": "As ZentroMart's AI support assistant, based on our policy [CAN-2] (After the order ships):\n\n## [CAN-2] After the order ships\nA shipped order cannot be cancelled. The customer can:\n- refuse the parcel at the door. For cash-on-delivery orders nothing is charged. For prepaid orders the refund follows REF-1 once the parcel returns to the warehouse; or\n- accept the delivery and return the item within its return window, if the category is returnable....",
+  "retrieved_sections": [
+    "CAN-2",
+    "CAN-1",
+    "CAN-4",
+    "CAN-3",
+    "REF-1"
+  ],
+  "tool_calls": []
+}

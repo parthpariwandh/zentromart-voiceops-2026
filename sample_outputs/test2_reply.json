@@ -1,0 +1,11 @@
+{
+  "input_file": "test2.txt",
+  "transcript": "How long will the refund take for a credit card?",
+  "reply": "As ZentroMart's AI support assistant, based on our policy [REF-2] (Refund timelines):\n\n## [REF-2] Refund timelines\nOnce a refund is initiated:\n- ZentroMart Wallet: instant (within 2 hours).\n- UPI, netbanking and wallet: 2 to 4 business days.\n- Credit and debit cards: 5 to 7 business days.\nBusiness days are Monday to Saturday, excluding warehouse holidays listed in the knowledge base.",
+  "retrieved_sections": [
+    "REF-2",
+    "REF-1",
+    "KB-00.3"
+  ],
+  "tool_calls": []
+}

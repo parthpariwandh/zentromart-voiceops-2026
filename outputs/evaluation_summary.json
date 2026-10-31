@@ -1,0 +1,6 @@
+{
+  "total_questions": 52,
+  "rag_correct_approx": 35,
+  "rag_accuracy": 0.673,
+  "note": "Baseline (Step 1) has no document access so accuracy is near zero on grounded questions. RAG improves retrieval of gold section IDs."
+}
